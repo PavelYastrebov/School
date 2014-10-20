@@ -1,0 +1,23 @@
+C:\Users\Anay\Desktop\School Progect\School Progect\bin\Debug\School Progect.exe.config
+C:\Users\Anay\Desktop\School Progect\School Progect\bin\Debug\School Progect.exe
+C:\Users\Anay\Desktop\School Progect\School Progect\bin\Debug\School Progect.pdb
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\MainWindow.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\App.g.cs
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\School Progect.g.resources
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\School Progect.exe
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\School Progect.pdb
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\App.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\ShinyRed.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\BureauBlack.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\BureauBlue.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\admin.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\admin.g.cs
