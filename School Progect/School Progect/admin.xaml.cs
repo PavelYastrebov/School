@@ -73,9 +73,34 @@ namespace School_Progect
                 MessageBox.Show("Все поля должны быть заполнены");
                 return;
             }
-            DataSet ds1 = connectToDataBase("INSERT INTO `SchoolDB`.`School` (`id` ,`number` ,`category` ,`city` ,`address` ,`phone`) VALUES (NULL,'" + tbNumber.Text + "', '" + tbName.Text + "', '" + cbCity.Text + "', '" + tbAddress.Text + "', '" + tbPhone.Text + "');");
+            //INSERT INTO  `sql555068`.`School` (`id` ,`number` ,`category` ,`city` ,`address` ,`phone`) VALUES (
+//NULL ,  '12',  'Специализированная школа',  'Харьков',  'ул. П. Морозова',  '0577786745'
+//);
+
+            DoSQL("INSERT INTO `sql555068`.`School` (`id` ,`number` ,`category` ,`city` ,`address` ,`phone`) VALUES (NULL,'" + tbNumber.Text + "', '" + tbName.Text + "', '" + cbCity.Text + "', '" + tbAddress.Text + "', '" + tbPhone.Text + "');");
             GetSchools();
         }
-       
+        void DoSQL(string s)
+        {
+            MySqlDataAdapter da;
+            string connectionString = Properties.Resources.conString;
+            MySqlConnection conn = null;
+            try
+            {
+                conn = new MySqlConnection(connectionString);
+                conn.Open();
+                da = new MySqlDataAdapter(s, conn);
+                conn.Close();
+                MessageBox.Show(s2);
+            }
+            catch (MySql.Data.MySqlClient.MySqlException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
     }
 }
