@@ -61,7 +61,7 @@ namespace School_Progect.Properties {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на Data Source=sql5.freesqldatabase.com;UID=sql555068;PASSWORD=tB3!cI3*;DATABASE=sql555068.
+        ///   Ищет локализованную строку, похожую на Data Source=localhost;UID=root;PASSWORD=;DATABASE=SchoolDB.
         /// </summary>
         internal static string conString {
             get {
@@ -70,7 +70,7 @@ namespace School_Progect.Properties {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на select number, category as Name, address, phone from School.
+        ///   Ищет локализованную строку, похожую на select  number, category as Name, city, address, phone  from School.
         /// </summary>
         internal static string querySchools {
             get {

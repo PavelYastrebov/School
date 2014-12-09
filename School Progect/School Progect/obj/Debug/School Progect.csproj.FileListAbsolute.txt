@@ -21,3 +21,293 @@ C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\ShinyBlue.baml
 C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
 C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\admin.baml
 C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\admin.g.cs
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\AddEvent.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\Events.baml
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+C:\Users\Anay\Desktop\School Progect\School Progect\obj\Debug\Events.g.cs
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe.config
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\School Progect.exe
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\School Progect.pdb
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\bin\Debug\School Progect.pdb
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\admin.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\BureauBlack.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\BureauBlue.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\Events.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\ShinyRed.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\admin.g.cs
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\Events.g.cs
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\School Progect.g.resources
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.baml
+C:\Users\Алексей\Desktop\School\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe.config
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect.exe
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect.pdb
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\bin\Debug\School Progect.pdb
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\admin.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\BureauBlack.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\BureauBlue.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\Events.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\ShinyRed.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\App.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\admin.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\Events.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\App.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect.g.resources
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\koladih2sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\bin\Debug\School Progect.exe.config
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\School Progect.exe
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\School Progect.pdb
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\AddEvent.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\admin.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\BureauBlack.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\BureauBlue.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\Events.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\MainWindow.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\MarksSending.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\ParentsWindow.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\ShinyRed.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\App.baml
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\admin.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\Events.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\ParentsWindow.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\App.g.cs
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\School Progect.g.resources
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\bin\Debug\School Progect.exe
+C:\Users\Anay\Desktop\начало 3 спринта\School Progect\School Progect\bin\Debug\School Progect.pdb
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe.config
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\School Progect.exe
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\School Progect.pdb
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\admin.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\BureauBlack.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\BureauBlue.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\Events.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\ParentsWindow.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\ShinyRed.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\App.baml
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\admin.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\Events.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\ParentsWindow.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\App.g.cs
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\School Progect.g.resources
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe
+E:\Учеба\авпз\School_Progect\School Progect\School Progect\bin\Debug\School Progect.pdb
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\filipov3sprint\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe.config
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\filipov3sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect.exe
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\school\filipov3sprint\School_Progect\School Progect\School Progect\obj\Debug\School Progect.pdb
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe.config
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\School Progect.exe
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\School Progect.pdb
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\bin\Debug\School Progect.exe
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\bin\Debug\School Progect.pdb
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\admin.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\BureauBlack.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\BureauBlue.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\Events.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\ParentsWindow.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\ShinyRed.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\App.baml
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\admin.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\Events.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\ParentsWindow.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\App.g.cs
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\School Progect.g.resources
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+C:\Users\Anay\Desktop\School_Progect\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\bin\Debug\School Progect.exe.config
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\School Progect.exe
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\School Progect.pdb
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\AddEvent.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\admin.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\BureauBlack.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\BureauBlue.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\Events.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\MainWindow.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\MarksSending.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\ParentsWindow.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\ShinyRed.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\App.baml
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\admin.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\Events.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\ParentsWindow.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\App.g.cs
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\School Progect.g.resources
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\bin\Debug\School Progect.exe
+C:\Учеба\Проект по каменевой\v6\School Progect\School Progect\bin\Debug\School Progect.pdb
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\bin\Debug\School Progect.exe.config
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\School Progect.exe
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\School Progect.pdb
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\AddEvent.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\admin.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\BureauBlack.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\BureauBlue.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\Events.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\MainWindow.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\MarksSending.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\ParentsWindow.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\ShinyRed.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\App.baml
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\admin.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\Events.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\ParentsWindow.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\App.g.cs
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\School Progect.g.resources
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\bin\Debug\School Progect.exe
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\bin\Debug\School Progect.pdb
+E:\Study\5 term\Аналіз вимог до програмного забезпечення\End 3 sprint\bidnyi\School Progect\School Progect\bin\Debug\MySql.Data.dll
+E:\АВПз+стили\School Progect\School Progect\bin\Debug\School Progect.exe.config
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\School Progect.exe
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\School Progect.pdb
+E:\АВПз+стили\School Progect\School Progect\bin\Debug\School Progect.exe
+E:\АВПз+стили\School Progect\School Progect\bin\Debug\School Progect.pdb
+E:\АВПз+стили\School Progect\School Progect\bin\Debug\MahApps.Metro.dll
+E:\АВПз+стили\School Progect\School Progect\bin\Debug\MySql.Data.dll
+E:\АВПз+стили\School Progect\School Progect\bin\Debug\System.Windows.Interactivity.dll
+E:\АВПз+стили\School Progect\School Progect\bin\Debug\MahApps.Metro.xml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\School Progect.csprojResolveAssemblyReference.cache
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\AddEvent.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\admin.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\BureauBlack.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\BureauBlue.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\Events.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\ExpressionDark.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\ExpressionLight.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\MainWindow.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\MarksSending.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\ParentsWindow.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\ShinyBlue.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\ShinyRed.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\TeacherWindow.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\WhistlerBlue.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\App.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\AddEvent.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\admin.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\directorOfStudiesWindow.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\Events.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\MainWindow.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\MarksSending.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\ParentsWindow.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\TeacherWindow.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\App.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\School Progect_MarkupCompile.cache
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\School Progect.g.resources
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\School_Progect.Properties.Resources.resources
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\School Progect.csproj.GenerateResource.Cache
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\Message.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\Message.g.cs
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\Rating.baml
+E:\АВПз+стили\School Progect\School Progect\obj\Debug\Rating.g.cs

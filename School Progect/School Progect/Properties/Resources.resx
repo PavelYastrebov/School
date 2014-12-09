@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="conString" xml:space="preserve">
-    <value>Data Source=sql5.freesqldatabase.com;UID=sql555068;PASSWORD=tB3!cI3*;DATABASE=sql555068</value>
+    <value>Data Source=localhost;UID=root;PASSWORD=;DATABASE=SchoolDB</value>
     <comment>data base connection</comment>
   </data>
   <data name="querySchools" xml:space="preserve">
-    <value>select number, category as Name, address, phone from School</value>
+    <value>select  number, category as Name, city, address, phone  from School</value>
   </data>
 </root>

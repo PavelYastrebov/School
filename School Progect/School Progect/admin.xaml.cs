@@ -13,17 +13,19 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using MySql.Data.MySqlClient;
 using System.Data;
+using MahApps.Metro.Controls;
 
 namespace School_Progect
 {
     /// <summary>
     /// Логика взаимодействия для admin.xaml
     /// </summary>
-    public partial class admin : Window
+    public partial class admin : MetroWindow
     {
         public admin()
         {
             InitializeComponent();
+
             GetSchools();
         }
 
@@ -39,6 +41,7 @@ namespace School_Progect
             dataGridView1.Columns[1].Width = 135;
 
         }
+
         DataSet connectToDataBase(string s)
         {
             MySqlDataAdapter da;  
@@ -70,37 +73,21 @@ namespace School_Progect
         {
             if (tbAddress.Text == String.Empty || tbName.Text == String.Empty || tbNumber.Text == String.Empty || tbPhone.Text == String.Empty)
             {
-                MessageBox.Show("Все поля должны быть заполнены");
+                new Message("Все поля должны быть заполнены").ShowDialog();
                 return;
             }
-            //INSERT INTO  `sql555068`.`School` (`id` ,`number` ,`category` ,`city` ,`address` ,`phone`) VALUES (
-//NULL ,  '12',  'Специализированная школа',  'Харьков',  'ул. П. Морозова',  '0577786745'
-//);
-
-            DoSQL("INSERT INTO `sql555068`.`School` (`id` ,`number` ,`category` ,`city` ,`address` ,`phone`) VALUES (NULL,'" + tbNumber.Text + "', '" + tbName.Text + "', '" + cbCity.Text + "', '" + tbAddress.Text + "', '" + tbPhone.Text + "');");
+            DataSet ds1 = connectToDataBase("INSERT INTO `SchoolDB`.`School` (`id` ,`number` ,`category` ,`city` ,`address` ,`phone`) VALUES (NULL,'" + tbNumber.Text + "', '" + tbName.Text + "', '" + cbCity.Text + "', '" + tbAddress.Text + "', '" + tbPhone.Text + "');");
             GetSchools();
         }
-        void DoSQL(string s)
+
+        private void dataGridView1_SelectionChanged(object sender, EventArgs e)
         {
-            MySqlDataAdapter da;
-            string connectionString = Properties.Resources.conString;
-            MySqlConnection conn = null;
-            try
-            {
-                conn = new MySqlConnection(connectionString);
-                conn.Open();
-                da = new MySqlDataAdapter(s, conn);
-                conn.Close();
-                MessageBox.Show(s2);
-            }
-            catch (MySql.Data.MySqlClient.MySqlException ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-            finally
-            {
-                conn.Close();
-            }
+            //string s = dataGridView1[1,3].Value.ToString();
+
+            //DataSet dt = connectToDataBase("select * from school where number = '" + s + "'");
+
+            //string value = dt.Tables[0].Rows[0][0].ToString();
+            //MessageBox.Show(value);
         }
     }
 }
